@@ -1,0 +1,55 @@
+.login-form{
+  display: flex;
+  flex-direction: column;
+  margin-top: 40px;
+}
+.login{  
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+}
+.login-form input, button{
+    font-size: 1em;
+    margin-top: 15px;
+    border: 1px solid black;
+    padding: 5px;
+
+}
+.login-form button{
+    background-color: brown;
+    color: burlywood;
+    font-weight: 700;
+    padding: 5px;
+}
+.head{
+    display: flex;
+    text-align: center;
+    font-size: 20px;
+    color:black;
+   
+}
+.home{
+    margin-left: 20px;
+}
+.lolo{
+    margin-left: 50px;
+}
+.ou{
+    padding-left: 500px;
+}
+.ou1{
+    padding-left: 15px;
+}
+body{
+    background-image: url(grass1.png);
+    background-repeat: repeat-x;
+    background-size: 15%;
+}
+.sup{
+    font-size: 30px;
+    text-align: center;
+    box-shadow: 10px 10px 10px 10px rgba(218, 165, 32, 0.788);
+    
+    margin-left: 300px;
+    margin-right: 300px;
+}
